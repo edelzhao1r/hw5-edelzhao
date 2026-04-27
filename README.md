@@ -1,4 +1,4 @@
-# hw5-edelzhao: Trial Balance Auditor
+# hw5-Zhiruo Zhao: Trial Balance Auditor
 
 ## Overview
 A reusable AI skill for auditing CSV trail balances
